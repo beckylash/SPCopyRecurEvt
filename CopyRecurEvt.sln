@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyRecurEvt", "ETCopyEvent\CopyRecurEvt.csproj", "{A7924A75-8B34-4803-A035-937711C54784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7924A75-8B34-4803-A035-937711C54784}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7924A75-8B34-4803-A035-937711C54784}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7924A75-8B34-4803-A035-937711C54784}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A7924A75-8B34-4803-A035-937711C54784}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7924A75-8B34-4803-A035-937711C54784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7924A75-8B34-4803-A035-937711C54784}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
