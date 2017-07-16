@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" dslVersion="1.0.0.0" Id="a9d61f6b-4aaf-4068-a4f0-5e63e2a1e8ef" solutionId="a9d61f6b-4aaf-4068-a4f0-5e63e2a1e8ef" resetWebServer="false" sharePointProductVersion="15.0" name="ET.CopyRecurEvt" xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel">
+  <features>
+    <featureReference itemId="12211b97-fe97-4a71-8e4c-3635e230082a" />
+  </features>
+</package>
